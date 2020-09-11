@@ -1,3 +1,4 @@
 # tarea-lab
-Marco Guillen
-jahsdkjashd
+Marco Antonio Guillen Davila
+CCOMP2-2 LAB
+
